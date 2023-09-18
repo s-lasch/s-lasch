@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My name is Steven, and I'm a data scientist.
+
 <details>
   <summary>:zap: details</summary>
 

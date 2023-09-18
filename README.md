@@ -3,7 +3,7 @@
 <details>
   <summary>:zap: details</summary>
 
-  <img align="left" alt="my github stats" src="https://github-readme-stats-s-lasch.vercel.app/api?username=s-lasch" />
+  <img align="left" alt="my github stats" src="https://github-readme-stats-s-lasch.vercel.app/api?username=s-lasch&theme=transparent" />
   
 </details>
 
